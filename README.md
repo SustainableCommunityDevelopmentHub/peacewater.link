@@ -1,5 +1,5 @@
-# peacewater.link database water solutions
-# feb 21 2021
+# Peacewater.link Database Reviewer
+## feb 21 2021
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e8f2124c-4190-4631-a753-e7bf685391c0/deploy-status)](https://app.netlify.com/sites/g1eny0ung-site-preview/deploys)
 
@@ -8,7 +8,7 @@
 SCD Website data contributed to this archive today.
 this database is managed via metadata. each item can be sorted and reassigned by its header contents or 'frontmattter' as hugo tems it.
 
-greg@sunlight:~/Downloads/hugo_upgrade/g1eny_scd$ hugo serve
+$ hugo serve
 
                    |  EN   
 -------------------+-------
